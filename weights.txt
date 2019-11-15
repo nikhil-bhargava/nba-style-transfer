@@ -1,0 +1,4 @@
+jbnoturfather:style_weight=1000000, content_weight=1
+board-man:style_weight=100000000, content_weight=1
+the-heatles:style_weight=100000000, content_weight=50
+three-hesis:style_weight=10000000, content_weight=50
